@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-alo alo
-=======
-content
->>>>>>> develop
+content 2
